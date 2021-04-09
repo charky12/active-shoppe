@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "db.default.url",
+      "type": "java.lang.String",
+      "description": "Description for db.default.url."
+  }
+] }
